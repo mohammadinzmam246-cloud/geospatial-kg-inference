@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/index.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/objectives.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/methodology.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/technology.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/applications.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/future.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/publications.html</loc>
+  </url>
+
+  <url>
+    <loc>https://YOUR_USERNAME.github.io/YOUR_REPO/contact.html</loc>
+  </url>
+
+</urlset>
